@@ -12,7 +12,7 @@ We've now integrated a Region Optimization (RO) model to enhance segmentation pr
 The complete dataset, model weights, and annotated results will be uploaded to Kaggle soon. Stay tuned for the release!
 
 ## 🎥 YouTube Trial Demo
-Watch a quick demo of the app in action: [Trial Demo on YouTube]([https://www.youtube.com/@mystudy2719/shorts](https://youtu.be/TPH30zT_ViA))
+Watch a quick demo of the app in action: [Trial Demo on YouTube](https://www.youtube.com/watch?v=TPH30zT_ViA)
 
 ## 🚀 Run the App
 
